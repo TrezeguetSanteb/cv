@@ -1,0 +1,19 @@
+Up = NORTE
+Left = OESTE
+Down = SUR
+Right = ESTE
+
+w = NORTE
+a = OESTE
+s = SUR
+d = ESTE
+
+q = DESHACER
+e = REHACER
+
+b = BUSCAR
+c = APLICAR
+
+r = REINICIAR
+
+Escape = SALIR
