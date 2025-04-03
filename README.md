@@ -150,28 +150,6 @@ Para añadir nuevos items, edite el archivo `items.json`:
 
 - `Utilidades`: Proporciona métodos para cargar datos desde archivos JSON
 
-## Contribuir
-
-Si deseas contribuir a este proyecto, por favor:
-
-1. Haz un fork del repositorio
-2. Crea una rama para tu funcionalidad (`git checkout -b nueva-funcionalidad`)
-3. Realiza tus cambios y haz commit (`git commit -m 'Agrega nueva funcionalidad'`)
-4. Sube tus cambios (`git push origin nueva-funcionalidad`)
-5. Abre un Pull Request
-
-## Posibles mejoras
-
-- Implementar una interfaz gráfica más elaborada
-- Añadir más Pokémon, habilidades y objetos
-- Implementar estados alterados adicionales (quemado, envenenado, etc.)
-- Añadir modos de juego adicionales (batallas dobles, batallas contra la IA)
-- Mejorar la IA de los oponentes controlados por la computadora
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-
 ## Créditos
 
 - Pokémon y todos los personajes relacionados son propiedad de Nintendo, Game Freak y The Pokémon Company
