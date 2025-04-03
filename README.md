@@ -119,21 +119,3 @@ Para añadir nuevos niveles, edite el archivo `niveles.txt` siguiendo el formato
 
 ### Modificar controles
 Edite el archivo `teclas.txt` para cambiar las teclas asignadas a cada acción. El formato es `tecla = ACCION`.
-
-## Contribuir
-
-Si deseas contribuir a este proyecto, por favor:
-1. Haz un fork del repositorio
-2. Crea una rama para tu funcionalidad (`git checkout -b nueva-funcionalidad`)
-3. Realiza tus cambios y haz commit (`git commit -m 'Agrega nueva funcionalidad'`)
-4. Sube tus cambios (`git push origin nueva-funcionalidad`)
-5. Abre un Pull Request
-
-## Créditos
-
-- Las imágenes utilizadas para los sprites pueden estar sujetas a derechos de autor de sus respectivos creadores.
-- El concepto original de Sokoban fue creado por Hiroyuki Imabayashi en 1981.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
